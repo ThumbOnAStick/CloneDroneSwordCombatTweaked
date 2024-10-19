@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordCombatTweaked", "SwordCombatTweaked\SwordCombatTweaked.csproj", "{752882B6-A55D-48AD-9C7A-E987EF8AAA44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{752882B6-A55D-48AD-9C7A-E987EF8AAA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752882B6-A55D-48AD-9C7A-E987EF8AAA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752882B6-A55D-48AD-9C7A-E987EF8AAA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752882B6-A55D-48AD-9C7A-E987EF8AAA44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E56A2493-A5A7-4889-B96F-9E875D9B726B}
+	EndGlobalSection
+EndGlobal
