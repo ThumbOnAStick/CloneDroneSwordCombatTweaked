@@ -3,3 +3,8 @@ F:\Clone Drone In The Danger Zone\SwordCombatTweaked\SwordCombatTweaked\obj\Debu
 F:\SteamLibrary\steamapps\common\Clone Drone in the Danger Zone\mods\SwordCombat tweaks\SwordCombatTweaked.dll
 F:\Clone Drone In The Danger Zone\SwordCombatTweaked\SwordCombatTweaked\obj\Debug\SwordCombatTweaked.dll
 F:\SteamLibrary\steamapps\common\Clone Drone in the Danger Zone\mods\Sword Combat tweaks\SwordCombatTweaked.dll
+F:\Clone Drone In The Danger Zone\CloneDroneSwordCombatTweaked\SwordCombatTweaked\SwordCombatTweaked\obj\Debug\SwordCombatTweaked.csproj.AssemblyReference.cache
+F:\Clone Drone In The Danger Zone\CloneDroneSwordCombatTweaked\SwordCombatTweaked\SwordCombatTweaked\obj\Debug\SwordCombatTweaked.csproj.CoreCompileInputs.cache
+F:\Clone Drone In The Danger Zone\CloneDroneSwordCombatTweaked\SwordCombatTweaked\SwordCombatTweaked\obj\Debug\SwordCombatTweaked.dll
+F:\SteamLibrary\steamapps\common\Clone Drone in the Danger Zone\mods\Sword Combat tweaked\SwordCombatTweaked.dll
+F:\SteamLibrary\steamapps\common\Clone Drone in the Danger Zone\mods\Sword Combat Tweaked mod\SwordCombatTweaked.dll
